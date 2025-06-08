@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class redbinrotate : MonoBehaviour
+public class WaterInteraction : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
